@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AppointmentService/AppointmentService.csproj" />
+  <Project Path="AuthService/AuthService.csproj" />
+</Solution>
